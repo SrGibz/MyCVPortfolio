@@ -137,7 +137,7 @@ section{
 }
 
 .home{
-    min-height: 100vh;
+    min-height: 90vh;
     height: 100%;
     width: 100%;
     display: flex;
